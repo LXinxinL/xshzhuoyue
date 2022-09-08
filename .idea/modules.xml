@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xshzhuoyue.iml" filepath="$PROJECT_DIR$/xshzhuoyue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuoyue-common-mapper/zhuoyuecommonmapper.iml" filepath="$PROJECT_DIR$/zhuoyue-common-mapper/zhuoyuecommonmapper.iml" />
+    </modules>
+  </component>
+</project>
